@@ -11,7 +11,7 @@ const distance = (og, dest) =>{
             destinations: dest,
             mode: 'walking',
             language: 'en-EN',
-            key: 'AIzaSyAqjFMWvUEC6AfvWFu4OlVUD5SKvoByVqA'
+            key: ''
         }
       };
     
