@@ -110,7 +110,7 @@ const styles = StyleSheet.create({
     display: 'flex',
     backgroundColor: '#FF8A65',
     alignItems: 'center',
-    
+    height: 1000,
   },
   smallContainer: {
 
